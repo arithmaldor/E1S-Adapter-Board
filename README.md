@@ -22,3 +22,6 @@ DVI Port: 74320-9014
 Right Angle SCART Plug: https://console5.com/store/female-scart-jp21-through-hole-pcb-mount-21-pin-connector-right-angle.html
 
 Enclosure: Hammond 1591BSBK enclosure
+
+## OSH Park
+Find this project on OSh Park: https://www.oshpark.com/shared_projects/juvy79Z5
